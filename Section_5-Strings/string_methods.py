@@ -15,8 +15,8 @@ number_a=text.count("a")
 x = "HAPPY birthday"
 x_l = x.lower()
 x_u = x.upper()
-x_c = x.capitalize()
-x_t = x.title() 
+x_c = x.capitalize() #capitalizes the first letter
+x_t = x.title()      #capitalizes the first letter of each word
 
 # search for pieces of text -> case sensitive
 
